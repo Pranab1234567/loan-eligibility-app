@@ -1,7 +1,7 @@
 
 
 import streamlit as st
-
+import joblib
 model = joblib.load("loan_model.pkl")
 scaler = joblib.load("loan_scaler.pkl")
 
