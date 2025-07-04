@@ -13,7 +13,7 @@ This ML app predicts whether a person will be eligible for a loan based on their
 - Joblib
 
 ## 🔗 Live App
-Try it here → [Streamlit Demo](https://loan-predictor.streamlit.app)
+Try it here → [Streamlit ](https://loan-eligibility-app-mugtfeluqfabchljtd4bpj.streamlit.app/)
 
 ## 📊 Model Accuracy
 - Accuracy: 82%
